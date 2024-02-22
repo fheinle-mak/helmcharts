@@ -3,7 +3,7 @@ entries:
   snipeit:
   - apiVersion: v2
     appVersion: v6.0.14
-    created: "2024-02-22T15:21:32.536026054+01:00"
+    created: "2024-02-22T15:51:54.631701168+01:00"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -30,6 +30,6 @@ entries:
     - https://github.com/t3n/helm-charts
     - https://github.com/snipe/snipe-it
     urls:
-    - https://fheinle-mak.github.io/snipeit-3.4.2.tgz
+    - https://fheinle-mak.github.io/helmcharts/snipeit-3.4.2.tgz
     version: 3.4.2
-generated: "2024-02-22T15:21:32.534980517+01:00"
+generated: "2024-02-22T15:51:54.630434843+01:00"
